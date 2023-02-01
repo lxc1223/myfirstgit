@@ -1,3 +1,4 @@
 Zombie
 Zombie2
 ghosts
+werewolf
